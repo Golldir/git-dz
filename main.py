@@ -1,1 +1,3 @@
-123
+import config
+
+config.test_function()
